@@ -24,7 +24,8 @@ By accurately predicting delivery times, this model can provide several business
 
 ## 🛠️ Tech Stack
 - **Python**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Machine Learning**: Linear Regression, XGBoost, Hyperparameter Tuning, Gradio
+- **Machine Learning**: Linear Regression, XGBoost, Hyperparameter Tuning
+- **UI Machine Learning**: Gradio
 - **Jupyter Notebook**, **VS Code**
 
 ## 📁 Dataset
